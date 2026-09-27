@@ -4,6 +4,6 @@
 
 Twitter:
 <p class="showcase" align="center">
-  <img src="previews/twitterOld.webp" alt="Twitter before" width="500">
-  <img src="previews/twitterNew.webp" alt="Twitter after" width="500">
+  <img src="previews/twitterOld.png" alt="Twitter before" width="500">
+  <img src="previews/twitterNew.png" alt="Twitter after" width="500">
 </p>
